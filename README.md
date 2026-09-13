@@ -1,19 +1,16 @@
-# Mission 2028
+## Progress
 
-## Goal
-- Erasmus Mundus Scholarship
-- AI Research (NLP)
-- GATE 2028
+### DSA
+- Arrays ✅
+- Two Sum ✅
+- Contains Duplicate ✅
 
-## Current Status
-- B.Sc. (Hons) Computer Science
-- Delhi University
-- Semester 3
-- CGPA: 6.36
+### CSA
+- Memory Hierarchy ✅
+- Cache Memory ✅
 
-## Skills
-- Python
-- C++
+### AI
+- Intelligent Agents ✅
 
-## Mission
-Improve CGPA, build NLP projects, get internship/research experience, and secure a fully funded MSc scholarship.
+### Project
+- Sentiment Analysis Started ✅
