@@ -1,16 +1,15 @@
-## Progress
-
 ### DSA
 - Arrays ✅
 - Two Sum ✅
 - Contains Duplicate ✅
+- Strings ✅
+- Palindrome Logic ✅
+- Two Pointers ✅
 
-### CSA
-- Memory Hierarchy ✅
-- Cache Memory ✅
+### OS
+- SJF ✅
 
-### AI
-- Intelligent Agents ✅
-
-### Project
-- Sentiment Analysis Started ✅
+### Research
+- Research Plan ✅
+- Paper Tracker ✅
+- Paper Reading Tracker ✅
