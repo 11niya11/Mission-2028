@@ -1,12 +1,7 @@
-# Sentiment Analysis
+## Project Roadmap
 
-## Goal
-Classify text as Positive or Negative.
-
-## Tech Stack
-- Python
-- Pandas
-- Scikit-learn
-
-## Status
-Planning
+- [ ] Collect dataset
+- [ ] Clean data
+- [ ] Build model
+- [ ] Evaluate results
+- [ ] Write report
