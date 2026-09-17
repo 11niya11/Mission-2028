@@ -1,3 +1,11 @@
-# Research
+# Papers To Read
 
-This folder contains my NLP research journey and research paper preparation.
+## Paper 1
+Title:
+Link:
+Status: Not Started
+
+## Paper 2
+Title:
+Link:
+Status: Not Started
